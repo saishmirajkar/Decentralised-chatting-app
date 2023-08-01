@@ -43,13 +43,13 @@ Follow the steps below to set up and run the application on your local machine.
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your_username/your_repository.git
+git clone https://github.com/saishmirajkar/Decentralised-chatting-app.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd your_repository
+cd Decentralised-chatting-app
 ```
 
 3. Install the required dependencies:
@@ -93,6 +93,6 @@ For any inquiries or feedback, please reach out to us:
 - Email: saishmirajkar0@gmail.com
 - Discord: https://discord.com/users/saish7147 
 - Twitter: https://twitter.com/saishmirajkar1
-- GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
+- GitHub: https://github.com/saishmirajkar
 
 Thank you for using my Decentralized Chatting Application! I hope you enjoy the secure and private communication experience powered by Avalanche blockchain technology.
